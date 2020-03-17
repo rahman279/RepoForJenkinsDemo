@@ -1,0 +1,14 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is 58CC-B69A
+
+ Directory of F:\javaprograms\HelloExample
+
+03/18/2020  01:46 AM    <DIR>          .
+03/18/2020  01:46 AM    <DIR>          ..
+03/18/2020  01:38 AM               415 Hello.class
+03/18/2020  12:57 AM               111 Hello.java
+03/18/2020  12:48 AM             2,324 index.html
+03/18/2020  01:46 AM                 0 me.txt
+03/18/2020  12:58 AM               456 readme.txt
+               5 File(s)          3,306 bytes
+               2 Dir(s)  121,108,000,768 bytes free
